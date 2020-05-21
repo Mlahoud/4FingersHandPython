@@ -1,3 +1,3 @@
 # 4FingersHandPython
  Animated Hand Using Python
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Visualizator](https://github.com/Mlahoud/4FingersHandPython/blob/master/images/fwk.png)
